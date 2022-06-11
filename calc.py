@@ -15,6 +15,7 @@ def button_click(number):
 def button_clear():
     e.delete(0, END)    
 
+#hi
 def button_add():
     first_number = e.get()
     global f_num
